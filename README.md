@@ -338,7 +338,7 @@ As of v2.0.0, the installer offers two sub-components, letting the players decid
 
 #### Special Acknowledgements to:
 
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - <a href="https://forum.baldursgate.com/profile/8324/Syntia13">Syntia13</a>: Edwina's portrait artwork..
 - Austin and Gwendolyne: native original BG2 and EET compatibility.
 - Everyone else from the <a href="http://www.shsforums.net/">Spellhold Studios</a> and IE games forums for testing and giving feedback!
